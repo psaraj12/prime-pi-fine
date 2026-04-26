@@ -228,13 +228,8 @@ Very small x where direct methods are enough
 
 ## License
 
-Choose a license before publishing.
-
-Recommended simple option:
-
-```text
 MIT License
-```
+
 
 ## Author
 

@@ -1,0 +1,11 @@
+# Build table
+./prime_pi_fine build 1000000000000 12 pi.dat
+
+# Extend table
+./prime_pi_fine extend 2000000000000 12 pi.dat
+
+# Query
+./prime_pi_fine query 123456789012 pi.dat
+
+# Info
+./prime_pi_fine info pi.dat

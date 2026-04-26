@@ -1,0 +1,12 @@
+# Binaries
+bin/
+*.out
+*.o
+
+# Data files
+data/
+*.dat
+
+# OS
+.DS_Store
+Thumbs.db
